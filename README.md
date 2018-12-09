@@ -16,9 +16,15 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.  
   
 ## Classifiers Applied:
-- Logistic Regression
-- K-Nearest Neighbors
-- Support Vector Machines
-- Naive Bayes Classifier
-- Decision Tree Classifier
-- Random Forest Classifier
+- Logistic Regression  
+https://en.wikipedia.org/wiki/Logistic_regression
+- K-Nearest Neighbors  
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+- Support Vector Machines  
+https://en.wikipedia.org/wiki/Support_vector_machine
+- Naive Bayes Classifier  
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+- Decision Tree Classifier  
+https://en.wikipedia.org/wiki/Decision_tree_learning
+- Random Forest Classifier  
+https://en.wikipedia.org/wiki/Random_forest
